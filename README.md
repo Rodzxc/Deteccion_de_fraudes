@@ -25,5 +25,6 @@ La mejor manera de distinguir los datos fraudulentos es utilizar los datos previ
 Aplicar la Ley de Benford en la primera cifra no ayuda a distiguir entre los datos fraudulentos de los auténticos.
 
 ## Conclusión
-Tanto los modelos de Machine Learning como la Ley de Benford tienen un nivel de acierto aceptable sin embargo, se puede seguir trabajando en variantes para buscar mejoras en las predicciones.
+Tanto los modelos de Machine Learning como la Ley de Benford tienen un nivel de acierto aceptable sin embargo, se pueden seguir desarrollando variantes para buscar mejoras en las predicciones.
+Se pueden encontrar otros trabajos realizados con este dataset en el siguiente [[Link]] (https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection/code).
 
