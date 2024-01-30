@@ -2,7 +2,7 @@
 
 ## Descripción del proyecto
 En este proyecto se procede a identificar y predecir los datos fraudulentos mediante modelos de Machine Learning y aplicando la Ley de Benford.
-El Dataset utilizado esta disponible en el repositorio de Kaggle [[Link]](https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection "Kaggle") y  en el archivo `dataset_fraud_detection.parquet`. 
+El Dataset utilizado esta disponible en el repositorio de Kaggle [[Link]](https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection "Kaggle") y en este repositorio se encuentra el archivo balanceado (submuestreado)  `df3.csv`. 
 
 ## Objetivo
 Identificar y predecir datos fraudulentos de la siguiente manera:
