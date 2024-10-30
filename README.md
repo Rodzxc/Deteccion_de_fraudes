@@ -1,5 +1,5 @@
 # Detección de Fraudes
-
+<span style="color:red">Los productos más importantes se controlan 2 veces al mes y el resto 1 vez al mes.</span>
 ## Descripción del proyecto
 En este proyecto se procede a identificar y predecir los datos fraudulentos mediante modelos de Machine Learning y aplicando la Ley de Benford.
 El Dataset utilizado esta disponible en el repositorio de Kaggle [[Link]](https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection "Kaggle") y en este repositorio se encuentra el archivo balanceado (submuestreado)  `df3.csv`. 
